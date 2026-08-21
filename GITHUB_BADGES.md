@@ -1,6 +1,6 @@
 # 🏆 GitHub Badges & Achievements — Complete Guide
 
-A complete, beginner-friendly documentation on **how to earn every GitHub profile badge (Achievement)**, the tiers for each badge, and tips to unlock them.
+A complete, beginner-friendly documentation on **how to earn every GitHub profile badge (Achievement)**, the tiers for each badge, and tips to unlock them. Also includes **README badges** for repositories.
 
 > ⚠️ **Note:** GitHub regularly updates its achievement system. Requirements and tiers may change. This guide reflects the latest known information.
 
@@ -8,13 +8,14 @@ A complete, beginner-friendly documentation on **how to earn every GitHub profil
 
 ## 📚 Table of Contents
 
-- [What are GitHub Achievements?](#what-are-github-achievements)
+- [GitHub Profile Achievements](#github-profile-achievements)
 - [Achievement Badges You Can Earn](#achievement-badges-you-can-earn)
 - [Tiered Achievements](#tiered-achievements)
 - [Profile Highlights (Non-Achievement Badges)](#profile-highlights-non-achievement-badges)
 - [Legacy / Unobtainable Badges](#legacy--unobtainable-badges)
 - [How to Display or Hide Achievements](#how-to-display-or-hide-achievements)
 - [Quick Tips to Earn Badges Faster](#quick-tips-to-earn-badges-faster)
+- [README Badges (Shields)](#readme-badges-shields)
 
 ---
 
@@ -155,6 +156,142 @@ To change the **emoji skin tone** of your achievements:
 - ✅ **Use test repositories** (like this one) to safely practice the PR workflow.
 - ✅ Keep a repository with a **great README** — it attracts stars (Starstruck) and shares.
 - ✅ Participate actively in **community discussions** — helpful answers get accepted (Galaxy Brain).
+
+---
+
+---
+
+## README Badges (Shields)
+
+**README badges** (also called shields) are small SVG images displayed in your repository README to show metadata like build status, version, license, stars, etc.
+
+### Popular README Badge Services
+
+| Service | URL | Example |
+| --- | --- | --- |
+| **Shields.io** | https://shields.io | ![GitHub stars](https://img.shields.io/github/stars/Khan3K/pull-shark?style=social) |
+| **GitHub Badges** | Built-in | ![GitHub last commit](https://img.shields.io/github/last-commit/Khan3K/pull-shark) |
+
+### Common README Badge Examples
+
+#### Repository Stats
+```markdown
+![GitHub stars](https://img.shields.io/github/stars/Khan3K/pull-shark?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Khan3K/pull-shark?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/Khan3K/pull-shark?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Khan3K/pull-shark)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Khan3K/pull-shark)
+```
+
+#### Build & CI/CD
+```markdown
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Khan3K/pull-shark/.github/workflows/ci.yml)
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+```
+
+#### Version & License
+```markdown
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![GitHub license](https://img.shields.io/github/license/Khan3K/pull-shark)
+```
+
+#### Code Quality
+```markdown
+![Code size](https://img.shields.io/github/languages/code-size/Khan3K/pull-shark)
+![Top language](https://img.shields.io/github/languages/top/Khan3K/pull-shark)
+![Code coverage](https://img.shields.io/badge/coverage-100%25-brightgreen)
+```
+
+#### Social & Community
+```markdown
+![GitHub contributors](https://img.shields.io/github/contributors/Khan3K/pull-shark)
+![GitHub last commit](https://img.shields.io/github/last-commit/Khan3K/pull-shark)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Khan3K/pull-shark)
+```
+
+#### Downloads & Usage
+```markdown
+![GitHub downloads](https://img.shields.io/github/downloads/Khan3K/pull-shark/total)
+![npm](https://img.shields.io/npm/v/package-name)
+![npm downloads](https://img.shields.io/npm/dt/package-name)
+```
+
+### How to Create Custom Badges
+
+1. Go to **[Shields.io](https://shields.io)**
+2. Use the **Endpoint** tab to create custom badges
+3. Format: `https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>`
+4. Example: `https://img.shields.io/badge/status-active-brightgreen`
+
+### Custom Badge Colors
+
+| Color | Code | Preview |
+| --- | --- | --- |
+| Bright Green | `brightgreen` | ![](https://img.shields.io/badge/-brightgreen-green) |
+| Green | `green` | ![](https://img.shields.io/badge/-green-green) |
+| Yellow | `yellow` | ![](https://img.shields.io/badge/-yellow-yellow) |
+| Orange | `orange` | ![](https://img.shields.io/badge/-orange-orange) |
+| Red | `red` | ![](https://img.shields.io/badge/-red-red) |
+| Blue | `blue` | ![](https://img.shields.io/badge/-blue-blue) |
+| Light Grey | `lightgrey` | ![](https://img.shields.io/badge/-lightgrey-lightgrey) |
+| Grey | `grey` | ![](https://img.shields.io/badge/-grey-grey) |
+
+### Badge Styles
+
+Add `?style=` parameter:
+- `?style=flat` (default)
+- `?style=flat-square`
+- `?style=for-the-badge`
+- `?style=social`
+- `?style=plastic`
+
+Example:
+```markdown
+![Stars](https://img.shields.io/github/stars/Khan3K/pull-shark?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Khan3K/pull-shark?style=social)
+```
+
+### Badge Logo
+
+Add `&logo=<name>` parameter to include icons:
+```markdown
+![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
+```
+
+### Dynamic Badges with GitHub API
+
+Create badges that update automatically:
+```markdown
+![Repo Size](https://img.shields.io/github/repo-size/Khan3K/pull-shark)
+![Lines of Code](https://img.shields.io/tokei/lines/github/Khan3K/pull-shark)
+![Open Issues](https://img.shields.io/github/issues-raw/Khan3K/pull-shark)
+![Closed Issues](https://img.shields.io/github/issues-closed-raw/Khan3K/pull-shark)
+```
+
+### Badge Placement Tips
+
+1. **Group related badges together** (build, tests, coverage in one section)
+2. **Place badges at the top** of your README for maximum visibility
+3. **Use consistent styling** across all badges
+4. **Don't overload** — 5-8 badges is usually enough
+5. **Test badge URLs** to ensure they display correctly
+
+### Example README Badge Section
+
+```markdown
+# My Project
+
+[![GitHub stars](https://img.shields.io/github/stars/Khan3K/pull-shark?style=social)](https://github.com/Khan3K/pull-shark/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Khan3K/pull-shark?style=social)](https://github.com/Khan3K/pull-shark/network)
+[![GitHub license](https://img.shields.io/github/license/Khan3K/pull-shark)](https://github.com/Khan3K/pull-shark/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/Khan3K/pull-shark)](https://github.com/Khan3K/pull-shark/issues)
+
+![Build](https://img.shields.io/github/actions/workflow/status/Khan3K/pull-shark/ci.yml?branch=main)
+![Code Size](https://img.shields.io/github/languages/code-size/Khan3K/pull-shark)
+![Last Commit](https://img.shields.io/github/last-commit/Khan3K/pull-shark)
+```
 
 ---
 
