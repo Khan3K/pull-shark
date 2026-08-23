@@ -1,7 +1,7 @@
-# 🦈 Pull Shark
+# 🏆 GitHub Badges & Achievements
 
-> **Practice repository to earn the GitHub Pull Shark achievement.**
-> Fork it, open pull requests, get them merged — and watch your shark grow. 🦈
+> **The complete guide to every GitHub badge — and a practice repo to earn the 🦈 Pull Shark achievement.**
+> Fork it, open pull requests, get them merged, and explore how to unlock all profile badges.
 
 [![Stars](https://img.shields.io/github/stars/Khan3K/pull-shark?style=social)](https://github.com/Khan3K/pull-shark/stargazers)
 [![Forks](https://img.shields.io/github/forks/Khan3K/pull-shark?style=social)](https://github.com/Khan3K/pull-shark/network)
@@ -14,8 +14,10 @@
 
 ## 📑 Table of Contents
 
-- [🚀 Start Here: Earn Pull Shark](#start-here-earn-pull-shark)
-- [🏆 All GitHub Achievements](#all-github-achievements)
+- [🦈 Practice Here: Earn Pull Shark](#practice-here-earn-pull-shark)
+- [📋 Every GitHub Achievement Badge](#every-github-achievement-badge)
+- [📖 How to Earn Each Badge](#how-to-earn-each-badge)
+- [🥇 Tiered Achievements](#tiered-achievements)
 - [🏅 Profile Highlights](#profile-highlights)
 - [⛔ Legacy and Unobtainable Badges](#legacy-and-unobtainable-badges)
 - [⚙️ Show or Hide Achievements](#show-or-hide-achievements)
@@ -24,20 +26,11 @@
 
 ---
 
-## 🚀 Start Here: Earn Pull Shark
+## 🦈 Practice Here: Earn Pull Shark
 
-**Pull Shark** 🦈 is awarded when you merge pull requests. It is one of the most satisfying GitHub achievements — and this repo exists to help you get it.
+This repository is a safe place to practice the pull-request workflow and earn **Pull Shark** 🦈.
 
-> 💡 **Goal of this repo:** reach **🥉 Bronze** by merging **16 pull requests**. You are already on your way with every PR you open here!
-
-### What is Pull Shark?
-
-| | |
-|---|---|
-| **Badge** | 🦈 Pull Shark |
-| **Unlocked by** | Merging **2+** pull requests |
-| **Difficulty** | 🟡 Medium |
-| **Tiers** | 🐣 Default → 🥉 Bronze → 🥈 Silver → 🥇 Gold |
+> 💡 **Goal of this repo:** reach **🥉 Bronze** by merging **16 pull requests**. Every PR you open and merge here counts!
 
 ### 7-Step Quick Start
 
@@ -71,34 +64,38 @@
 
 ---
 
-## 🏆 All GitHub Achievements
+## 📋 Every GitHub Achievement Badge
 
-A complete reference of every earnable GitHub achievement.
+A complete reference of **all** GitHub profile badges — achievements, highlights, and legacy.
 
-### Master List
+> Legend: ✅ Earnable · 🧪 In testing · ⚠️ Paused/limited · ❌ No longer earnable
 
-| Badge | How to Earn | Difficulty |
-|-------|-------------|------------|
-| 🦈 **Pull Shark** | Merge at least **2 pull requests** | 🟡 Medium |
-| ⭐ **Starstruck** | Your repository reaches **16 stars** | 🔴 Hard |
-| ⚡ **Quickdraw** | Close an issue or PR **within 5 minutes** of opening | 🟢 Very Easy |
-| 😎 **YOLO** | Merge a PR **without any code review** | 🟢 Easy |
-| 🧠 **Galaxy Brain** | Get **2 answers accepted** in [GitHub Discussions](https://github.com/orgs/community/discussions/) | 🟡 Medium |
-| 🧑‍🤝‍🧑 **Pair Extraordinaire** | **Co-author a commit** in a merged PR (GitHub Desktop) | 🔴 Hard |
-| 💖 **Public Sponsor** | **Publicly sponsor** someone via [GitHub Sponsors](https://github.com/sponsors) | 🟢 Very Easy |
-| 💗 **Heart On Your Sleeve** 🧪 | React with ❤️ to a GitHub post/comment *(testing)* | 🟢 Very Easy |
-| 🌐 **Open Sourcerer** 🧪 | PRs merged in **>1 public repo** *(testing)* | 🟡 Medium |
+| Badge | How to Earn | Tiers | Difficulty | Status |
+|-------|-------------|-------|------------|--------|
+| 🦈 **Pull Shark** | Merge at least **2 pull requests** | 4 | 🟡 Medium | ✅ |
+| ⭐ **Starstruck** | A repository you own reaches **16 stars** | 4 | 🔴 Hard | ✅ |
+| 🧠 **Galaxy Brain** | Get **2 answers accepted** in Discussions | 4 | 🟡 Medium | ⚠️ |
+| 🧑‍🤝‍🧑 **Pair Extraordinaire** | **Co-author a commit** in a merged PR | 4 | 🔴 Hard | ✅ |
+| ⚡ **Quickdraw** | Close an issue/PR **within 5 minutes** | — | 🟢 Very Easy | ✅ |
+| 😎 **YOLO** | Merge a PR **without any code review** | — | 🟢 Easy | ✅ |
+| 💖 **Public Sponsor** | **Publicly sponsor** via [GitHub Sponsors](https://github.com/sponsors) | — | 🟢 Very Easy | ✅ |
+| 💗 **Heart On Your Sleeve** | React with ❤️ to GitHub content | — | 🟢 Very Easy | 🧪 |
+| 🌐 **Open Sourcerer** | PRs merged in **>1 public repo** | — | 🟡 Medium | 🧪 |
 
-### 🥇 Tiered Achievements
+**Profile Highlights** (separate section, see [🏅 Profile Highlights](#profile-highlights)):
+**Pro** · **Developer Program Member** · **Security Bug Bounty Hunter** · **Discussion Answered**
 
-| Achievement | 🐣 Default | 🥉 Bronze | 🥈 Silver | 🥇 Gold |
-|-------------|-----------|-----------|-----------|---------|
-| 🦈 Pull Shark | 2 PRs | 16 PRs | 128 PRs | 1024 PRs |
-| ⭐ Starstruck | 16 ⭐ | 128 ⭐ | 512 ⭐ | 4096 ⭐ |
-| 🧠 Galaxy Brain | 2 answers | 8 answers | 16 answers | 32 answers |
-| 🧑‍🤝‍🧑 Pair Extraordinaire | 1 commit | 10 commits | 24 commits | 48 commits |
+**Legacy / Unobtainable** (see [⛔ Legacy](#legacy-and-unobtainable-badges)):
+**Arctic Code Vault Contributor** · **Mars 2020 Contributor**
 
-### Step-by-Step Guides
+> 💗 **Heart On Your Sleeve** & 🌐 **Open Sourcerer** are experimental — GitHub may change or disable them at any time.
+> 🧠 **Galaxy Brain** awarding via Community Discussions has been paused by GitHub; it may not currently be grantable.
+
+---
+
+## 📖 How to Earn Each Badge
+
+Click a badge to expand its step-by-step guide.
 
 <details>
 <summary>🦈 Pull Shark — merge pull requests</summary>
@@ -107,6 +104,8 @@ A complete reference of every earnable GitHub achievement.
 2. Make a small change on a **new branch**.
 3. Open a **Pull Request** and merge it.
 4. Repeat until you reach the required count (2 for the base badge).
+
+**Tiers:** 🐣 2 · 🥉 16 · 🥈 128 · 🥇 1024 merged PRs.
 
 </details>
 
@@ -118,24 +117,7 @@ A complete reference of every earnable GitHub achievement.
 3. Share it on social media, forums, and communities.
 4. Ask people to ⭐ star it.
 
-</details>
-
-<details>
-<summary>⚡ Quickdraw — close within 5 minutes</summary>
-
-1. Open an issue or pull request.
-2. Wait a few seconds.
-3. Close it **within 5 minutes** of opening.
-
-</details>
-
-<details>
-<summary>😎 YOLO — merge without review</summary>
-
-1. Create a pull request.
-2. **Do not** request or wait for any review.
-3. Click **Merge pull request** directly.
-4. Do this on your own repos (branch protection may block it elsewhere).
+**Tiers:** 🐣 16 · 🥉 128 · 🥈 512 · 🥇 4096 stars.
 
 </details>
 
@@ -147,15 +129,44 @@ A complete reference of every earnable GitHub achievement.
 3. Write a clear, helpful answer.
 4. Get **2 of your answers accepted** by the asker.
 
+**Tiers:** 🐣 2 · 🥉 8 · 🥈 16 · 🥇 32 accepted answers.
+
+> ⚠️ GitHub has paused awarding this badge via Community Discussions. Check current availability before relying on it.
+
 </details>
 
 <details>
 <summary>🧑‍🤝‍🧑 Pair Extraordinaire — co-authored commit</summary>
 
-1. Download **GitHub Desktop**.
+1. Download **GitHub Desktop** (or use the web editor with a co-author).
 2. Make a commit with a collaborator (or a second account).
 3. Add `Co-authored-by: Name <email>` to the commit message.
 4. Merge a PR containing that co-authored commit.
+
+**Tiers:** 🐣 1 · 🥉 10 · 🥈 24 · 🥇 48 co-authored merged PRs.
+
+</details>
+
+<details>
+<summary>⚡ Quickdraw — close within 5 minutes</summary>
+
+1. Open an issue or pull request.
+2. Wait a few seconds.
+3. Close it **within 5 minutes** of opening.
+
+**No tiers.** Works on your own repos or issues you can close.
+
+</details>
+
+<details>
+<summary>😎 YOLO — merge without review</summary>
+
+1. Create a pull request.
+2. **Do not** request or wait for any review.
+3. Click **Merge pull request** directly.
+4. Do this on your own repos (branch protection may block it elsewhere).
+
+**No tiers.**
 
 </details>
 
@@ -167,15 +178,50 @@ A complete reference of every earnable GitHub achievement.
 3. Sponsor them (even a small amount).
 4. Keep the sponsorship **public**.
 
+**No tiers.**
+
 </details>
 
-> 💗 **Heart On Your Sleeve** & 🌐 **Open Sourcerer** are in testing — requirements may change.
+<details>
+<summary>💗 Heart On Your Sleeve — react with ❤️ (testing)</summary>
+
+1. Find a post, comment, or discussion on GitHub.
+2. React to it with the ❤️ emoji.
+
+**Status:** 🧪 Experimental — may not be grantable right now.
+
+</details>
+
+<details>
+<summary>🌐 Open Sourcerer — many public repos (testing)</summary>
+
+1. Contribute to **more than one public repository** you do not own.
+2. Get pull requests merged across multiple public repos.
+
+**Status:** 🧪 Experimental — may not be grantable right now.
+
+</details>
+
+---
+
+## 🥇 Tiered Achievements
+
+Four achievements have **Bronze → Silver → Gold** upgrades that unlock automatically as you progress.
+
+| Achievement | 🐣 Default | 🥉 Bronze | 🥈 Silver | 🥇 Gold |
+|-------------|-----------|-----------|-----------|---------|
+| 🦈 Pull Shark | 2 PRs | 16 PRs | 128 PRs | 1024 PRs |
+| ⭐ Starstruck | 16 ⭐ | 128 ⭐ | 512 ⭐ | 4096 ⭐ |
+| 🧠 Galaxy Brain | 2 answers | 8 answers | 16 answers | 32 answers |
+| 🧑‍🤝‍🧑 Pair Extraordinaire | 1 commit | 10 commits | 24 commits | 48 commits |
+
+> 💡 This repository (`pull-shark`) is purpose-built to grind the **Pull Shark** ladder — merge PRs to climb from 🐣 to 🥇.
 
 ---
 
 ## 🏅 Profile Highlights
 
-Separate from achievements, shown in your profile's **Highlights** section:
+Separate from achievements, these appear in your profile's **Highlights** section:
 
 | Badge | How to Earn |
 |-------|-------------|
@@ -188,7 +234,7 @@ Separate from achievements, shown in your profile's **Highlights** section:
 
 ## ⛔ Legacy and Unobtainable Badges
 
-These can **no longer be earned** — they were awarded for past events:
+These can **no longer be earned** — they were awarded for one-time historical events:
 
 | Badge | How It Was Earned |
 |-------|-------------------|
@@ -311,5 +357,5 @@ Example: `https://img.shields.io/badge/status-active-brightgreen`
 ---
 
 <p align="center">
-  <sub>Not affiliated with GitHub, Inc. — a community resource to help you earn the 🦈 Pull Shark achievement.</sub>
+  <sub>Not affiliated with GitHub, Inc. — a community resource covering every GitHub badge and the 🦈 Pull Shark achievement.</sub>
 </p>
