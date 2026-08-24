@@ -1,14 +1,54 @@
-# 🏆 GitHub Badges & Achievements
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-Badges%20%26%20Achievements-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badges & Achievements"/>
+  <img src="https://img.shields.io/badge/Complete%20Guide-All%20Badges-brightgreen?style=for-the-badge" alt="Complete Guide"/>
+  <img src="https://img.shields.io/badge/Practice%20Repo-Pull%20Shark-8957e5?style=for-the-badge" alt="Practice Repo Pull Shark"/>
+</p>
 
-> **The complete guide to every GitHub badge — and a practice repo to earn the 🦈 Pull Shark achievement.**
-> Fork it, open pull requests, get them merged, and explore how to unlock all profile badges.
+<h1 align="center">🏆 GitHub Badges & Achievements</h1>
 
-[![Stars](https://img.shields.io/github/stars/Khan3K/pull-shark?style=social)](https://github.com/Khan3K/pull-shark/stargazers)
-[![Forks](https://img.shields.io/github/forks/Khan3K/pull-shark?style=social)](https://github.com/Khan3K/pull-shark/network)
-[![Issues](https://img.shields.io/github/issues/Khan3K/pull-shark)](https://github.com/Khan3K/pull-shark/issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr/Khan3K/pull-shark)](https://github.com/Khan3K/pull-shark/pulls)
-[![Last Commit](https://img.shields.io/github/last-commit/Khan3K/pull-shark)](https://github.com/Khan3K/pull-shark/commits/main)
-[![License](https://img.shields.io/github/license/Khan3K/pull-shark)](https://github.com/Khan3K/pull-shark/blob/main/LICENSE)
+<p align="center">
+  <b>The complete, beautiful guide to <i>every</i> GitHub profile badge</b><br/>
+  — plus a practice repo to earn the 🦈 <b>Pull Shark</b> achievement.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Khan3K/pull-shark/stargazers"><img src="https://img.shields.io/github/stars/Khan3K/pull-shark?style=social" alt="Stars"/></a>
+  <a href="https://github.com/Khan3K/pull-shark/network"><img src="https://img.shields.io/github/forks/Khan3K/pull-shark?style=social" alt="Forks"/></a>
+  <a href="https://github.com/Khan3K/pull-shark/issues"><img src="https://img.shields.io/github/issues/Khan3K/pull-shark" alt="Issues"/></a>
+  <a href="https://github.com/Khan3K/pull-shark/pulls"><img src="https://img.shields.io/github/issues-pr/Khan3K/pull-shark" alt="Pull Requests"/></a>
+  <a href="https://github.com/Khan3K/pull-shark/commits/main"><img src="https://img.shields.io/github/last-commit/Khan3K/pull-shark" alt="Last Commit"/></a>
+  <a href="https://github.com/Khan3K/pull-shark/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Khan3K/pull-shark" alt="License"/></a>
+</p>
+
+---
+
+## 🎨 Badge Gallery
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pull%20Shark-%F0%9F%A6%88-1f6feb?style=for-the-badge" alt="Pull Shark"/>
+  <img src="https://img.shields.io/badge/Starstruck-%E2%AD%90-fbbf24?style=for-the-badge" alt="Starstruck"/>
+  <img src="https://img.shields.io/badge/Galaxy%20Brain-%F0%9F%A7%A0-8957e5?style=for-the-badge" alt="Galaxy Brain"/>
+  <img src="https://img.shields.io/badge/Pair%20Extraordinaire-%F0%9F%91%A5-2da44e?style=for-the-badge" alt="Pair Extraordinaire"/>
+  <img src="https://img.shields.io/badge/Quickdraw-%E2%9A%A1-fb8500?style=for-the-badge" alt="Quickdraw"/>
+  <img src="https://img.shields.io/badge/YOLO-%F0%9F%98%8E-bf3989?style=for-the-badge" alt="YOLO"/>
+  <img src="https://img.shields.io/badge/Public%20Sponsor-%F0%9F%92%96-e85ab5?style=for-the-badge" alt="Public Sponsor"/>
+  <img src="https://img.shields.io/badge/Heart%20On%20Your%20Sleeve-%F0%9F%92%97-cf222e?style=for-the-badge" alt="Heart On Your Sleeve"/>
+  <img src="https://img.shields.io/badge/Open%20Sourcerer-%F0%9F%8C%90-1b9e8f?style=for-the-badge" alt="Open Sourcerer"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Highlights-Pro-6e40c9?style=for-the-badge" alt="Pro"/>
+  <img src="https://img.shields.io/badge/Highlights-Dev%20Program-6e40c9?style=for-the-badge" alt="Developer Program"/>
+  <img src="https://img.shields.io/badge/Highlights-Bug%20Bounty-6e40c9?style=for-the-badge" alt="Bug Bounty"/>
+  <img src="https://img.shields.io/badge/Highlights-Discussion%20Answered-6e40c9?style=for-the-badge" alt="Discussion Answered"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Legacy-Arctic%20Code%20Vault-57606a?style=for-the-badge" alt="Arctic Code Vault"/>
+  <img src="https://img.shields.io/badge/Legacy-Mars%202020-57606a?style=for-the-badge" alt="Mars 2020"/>
+</p>
+
+> 💡 **Every badge above is documented below** — how to earn it, its tiers, and its current status.
 
 ---
 
@@ -23,6 +63,8 @@
 - [⚙️ Show or Hide Achievements](#show-or-hide-achievements)
 - [🛡️ README Badges Shield Guide](#readme-badges-shield-guide)
 - [💡 Tips to Earn Faster](#tips-to-earn-faster)
+
+<p align="center">🦈 · ⭐ · 🧠 · 🧑‍🤝‍🧑 · ⚡ · 😎 · 💖</p>
 
 ---
 
@@ -62,6 +104,8 @@ This repository is a safe place to practice the pull-request workflow and earn *
 
 > 🚫 **Note:** Tiers upgrade **automatically** — you do not claim them. Just keep merging!
 
+<p align="center">🦈 · ⭐ · 🧠 · 🧑‍🤝‍🧑 · ⚡ · 😎 · 💖</p>
+
 ---
 
 ## 📋 Every GitHub Achievement Badge
@@ -82,7 +126,7 @@ A complete reference of **all** GitHub profile badges — achievements, highligh
 | 💗 **Heart On Your Sleeve** | React with ❤️ to GitHub content | — | 🟢 Very Easy | 🧪 |
 | 🌐 **Open Sourcerer** | PRs merged in **>1 public repo** | — | 🟡 Medium | 🧪 |
 
-**Profile Highlights** (separate section, see [🏅 Profile Highlights](#profile-highlights)):
+**Profile Highlights** (see [🏅 Profile Highlights](#profile-highlights)):
 **Pro** · **Developer Program Member** · **Security Bug Bounty Hunter** · **Discussion Answered**
 
 **Legacy / Unobtainable** (see [⛔ Legacy](#legacy-and-unobtainable-badges)):
@@ -90,6 +134,8 @@ A complete reference of **all** GitHub profile badges — achievements, highligh
 
 > 💗 **Heart On Your Sleeve** & 🌐 **Open Sourcerer** are experimental — GitHub may change or disable them at any time.
 > 🧠 **Galaxy Brain** awarding via Community Discussions has been paused by GitHub; it may not currently be grantable.
+
+<p align="center">🦈 · ⭐ · 🧠 · 🧑‍🤝‍🧑 · ⚡ · 😎 · 💖</p>
 
 ---
 
@@ -202,6 +248,8 @@ Click a badge to expand its step-by-step guide.
 
 </details>
 
+<p align="center">🦈 · ⭐ · 🧠 · 🧑‍🤝‍🧑 · ⚡ · 😎 · 💖</p>
+
 ---
 
 ## 🥇 Tiered Achievements
@@ -217,6 +265,8 @@ Four achievements have **Bronze → Silver → Gold** upgrades that unlock autom
 
 > 💡 This repository (`pull-shark`) is purpose-built to grind the **Pull Shark** ladder — merge PRs to climb from 🐣 to 🥇.
 
+<p align="center">🦈 · ⭐ · 🧠 · 🧑‍🤝‍🧑 · ⚡ · 😎 · 💖</p>
+
 ---
 
 ## 🏅 Profile Highlights
@@ -230,6 +280,8 @@ Separate from achievements, these appear in your profile's **Highlights** sectio
 | **Security Bug Bounty Hunter** | Accepted report via the [GitHub Bug Bounty](https://bounty.github.com/) |
 | **Discussion Answered** | Have a reply marked as the accepted answer |
 
+<p align="center">🦈 · ⭐ · 🧠 · 🧑‍🤝‍🧑 · ⚡ · 😎 · 💖</p>
+
 ---
 
 ## ⛔ Legacy and Unobtainable Badges
@@ -240,6 +292,8 @@ These can **no longer be earned** — they were awarded for one-time historical 
 |-------|-------------------|
 | **Arctic Code Vault Contributor** | Contributed code to the 2020 GitHub Archive Program |
 | **Mars 2020 Contributor** | Contributed code used by NASA's Mars 2020 Helicopter (Ingenuity) |
+
+<p align="center">🦈 · ⭐ · 🧠 · 🧑‍🤝‍🧑 · ⚡ · 😎 · 💖</p>
 
 ---
 
@@ -253,6 +307,8 @@ These can **no longer be earned** — they were awarded for one-time historical 
 1. **Settings** → **Appearance**.
 2. Scroll to **Emoji skin tone preference**.
 3. Pick a tone — it applies to all your GitHub emojis.
+
+<p align="center">🦈 · ⭐ · 🧠 · 🧑‍🤝‍🧑 · ⚡ · 😎 · 💖</p>
 
 ---
 
@@ -344,6 +400,8 @@ Example: `https://img.shields.io/badge/status-active-brightgreen`
 
 </details>
 
+<p align="center">🦈 · ⭐ · 🧠 · 🧑‍🤝‍🧑 · ⚡ · 😎 · 💖</p>
+
 ---
 
 ## 💡 Tips to Earn Faster
@@ -358,4 +416,8 @@ Example: `https://img.shields.io/badge/status-active-brightgreen`
 
 <p align="center">
   <sub>Not affiliated with GitHub, Inc. — a community resource covering every GitHub badge and the 🦈 Pull Shark achievement.</sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%20for%20the%20GitHub%20community-ff69b4?style=flat-square" alt="Made with love"/>
 </p>
