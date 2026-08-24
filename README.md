@@ -52,8 +52,22 @@
 
 ---
 
+## ✨ What Are GitHub Achievements?
+
+**Achievements** are badges displayed on your GitHub profile that unlock **automatically** when you hit certain milestones — merging pull requests, earning stars, answering discussions, sponsoring open source, and more. They celebrate your contribution to the community.
+
+> 🏆 They are **public by default**, but you can hide any of them anytime (see [⚙️ Show or Hide Achievements](#show-or-hide-achievements)). This guide covers **every** one of them — from 🦈 Pull Shark to the legacy 🌌 Arctic Code Vault.
+
+<p align="center">
+  <a href="https://github.com/Khan3K/pull-shark/stargazers"><img src="https://img.shields.io/badge/%E2%AD%90%20Star%20this%20repo-1f6feb?style=for-the-badge" alt="Star this repo"/></a>
+  <a href="https://github.com/Khan3K/pull-shark/fork"><img src="https://img.shields.io/badge/%F0%9F%8D%B4%20Fork%20to%20practice-8957e5?style=for-the-badge" alt="Fork to practice"/></a>
+</p>
+
+---
+
 ## 📑 Table of Contents
 
+- [✨ What Are GitHub Achievements?](#what-are-github-achievements)
 - [🦈 Practice Here: Earn Pull Shark](#practice-here-earn-pull-shark)
 - [📋 Every GitHub Achievement Badge](#every-github-achievement-badge)
 - [📖 How to Earn Each Badge](#how-to-earn-each-badge)
