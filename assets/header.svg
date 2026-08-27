@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="GitHub Badges and Achievements">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="55%" stop-color="#1f2a44"/>
+      <stop offset="100%" stop-color="#1f6feb"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#bc8cff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="260" fill="url(#bg)"/>
+  <text x="500" y="115" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="800" fill="#ffffff" text-anchor="middle">GitHub Badges</text>
+  <text x="500" y="180" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="800" fill="url(#accent)" text-anchor="middle">&amp; Achievements</text>
+  <text x="500" y="225" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#c9d1d9" text-anchor="middle">The complete, beautiful guide to every profile badge</text>
+</svg>

@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="40" viewBox="0 0 1000 40" preserveAspectRatio="none" role="img" aria-label="section divider">
+  <path d="M0,20 C200,40 300,0 500,20 C700,40 800,0 1000,20" stroke="#1f6feb" stroke-width="3" fill="none" stroke-opacity="0.55"/>
+  <circle cx="500" cy="20" r="5" fill="#8957e5"/>
+</svg>

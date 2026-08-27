@@ -1,14 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-Badges%20%26%20Achievements-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badges & Achievements"/>
-  <img src="https://img.shields.io/badge/Complete%20Guide-All%20Badges-brightgreen?style=for-the-badge" alt="Complete Guide"/>
-  <img src="https://img.shields.io/badge/Practice%20Repo-Pull%20Shark-8957e5?style=for-the-badge" alt="Practice Repo Pull Shark"/>
-</p>
-
-<h1 align="center">🏆 GitHub Badges & Achievements</h1>
-
-<p align="center">
-  <b>The most complete, beautiful guide to <i>every</i> GitHub profile badge</b><br/>
-  with tier tables, skin-tone variants, troubleshooting and a practice repo to earn the 🦈 <b>Pull Shark</b>.
+  <img src="assets/header.svg" alt="GitHub Badges & Achievements" width="100%"/>
 </p>
 
 <p align="center">
@@ -18,6 +9,14 @@
   <a href="https://github.com/Khan3K/pull-shark/pulls"><img src="https://img.shields.io/github/issues-pr/Khan3K/pull-shark" alt="Pull Requests"/></a>
   <a href="https://github.com/Khan3K/pull-shark/commits/main"><img src="https://img.shields.io/github/last-commit/Khan3K/pull-shark" alt="Last Commit"/></a>
   <a href="https://github.com/Khan3K/pull-shark/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Khan3K/pull-shark" alt="License"/></a>
+</p>
+
+<p align="center">
+  <a href="#practice-here-earn-pull-shark"><img src="https://img.shields.io/badge/%F0%9F%A6%88%20Practice-1f6feb?style=for-the-badge" alt="Practice"/></a>
+  <a href="#every-badge-at-a-glance"><img src="https://img.shields.io/badge/%F0%9F%93%8B%20All%20Badges-2da44e?style=for-the-badge" alt="All Badges"/></a>
+  <a href="#how-to-earn-each-badge--detailed"><img src="https://img.shields.io/badge/%F0%9F%93%96%20Guides-8957e5?style=for-the-badge" alt="Guides"/></a>
+  <a href="#troubleshooting-badge-not-showing"><img src="https://img.shields.io/badge/%F0%9F%9A%A8%20Fixes-cf222e?style=for-the-badge" alt="Fixes"/></a>
+  <a href="#faq"><img src="https://img.shields.io/badge/%E2%9D%93%20FAQ-ff69b4?style=for-the-badge" alt="FAQ"/></a>
 </p>
 
 ---
@@ -89,7 +88,7 @@
 - [❓ FAQ](#faq)
 - [🕰️ History & Changelog](#history--changelog)
 
-<p align="center">🦈 · ⭐ · 🧠 · 👥 · ⚡ · 😎 · 💖</p>
+<p align="center"><img src="assets/divider.svg" width="60%" alt="divider"/></p>
 
 ---
 
@@ -118,6 +117,13 @@ This repository is a **safe, friendly place** to practice the pull-request workf
 <td width="40%">
 
 ### 🪜 Pull Shark Ladder
+
+> 🎯 **Track your progress** (check off as you earn each tier — see [⚙️ Show or Hide](#show-or-hide--appearance) to confirm on your profile):
+
+- [ ] 🐣 **Default** — merge **2** pull requests
+- [ ] 🥉 **Bronze** — merge **16** pull requests  ← _this repo's goal_
+- [ ] 🥈 **Silver** — merge **128** pull requests
+- [ ] 🥇 **Gold** — merge **1024** pull requests
 
 | Tier | Needed | Label |
 |------|--------|-------|
@@ -166,7 +172,7 @@ git push origin my-pr-1
 
 > ✅ **Pro Tip:** After forking, enable `Actions` on your fork to avoid warnings. Every merged PR counts even on your fork's `main`.
 
-<p align="center">🦈 · ⭐ · 🧠 · 👥 · ⚡ · 😎 · 💖</p>
+<p align="center"><img src="assets/divider.svg" width="60%" alt="divider"/></p>
 
 ---
 
@@ -192,7 +198,7 @@ git push origin my-pr-1
 > 💗 & 🌐 are experimental — GitHub may change/disable them at any time.
 > 🧠 Galaxy Brain awarding via Community Discussions has been **paused** by GitHub.
 
-<p align="center">🦈 · ⭐ · 🧠 · 👥 · ⚡ · 😎 · 💖</p>
+<p align="center"><img src="assets/divider.svg" width="60%" alt="divider"/></p>
 
 ---
 
@@ -405,7 +411,7 @@ Co-authored-by: Jane Doe <jane@users.noreply.github.com>"
 
 </details>
 
-<p align="center">🦈 · ⭐ · 🧠 · 👥 · ⚡ · 😎 · 💖</p>
+<p align="center"><img src="assets/divider.svg" width="60%" alt="divider"/></p>
 
 ---
 
@@ -428,7 +434,7 @@ Four achievements upgrade through **x2 (Bronze), x3 (Silver), x4 (Gold)**. Each 
 
 > 💡 **This repo** is purpose-built to grind the **Pull Shark** ladder — merge PRs to climb from 🐣 to 🥇.
 
-<p align="center">🦈 · ⭐ · 🧠 · 👥 · ⚡ · 😎 · 💖</p>
+<p align="center"><img src="assets/divider.svg" width="60%" alt="divider"/></p>
 
 ---
 
@@ -448,7 +454,7 @@ GitHub lets you change your **emoji skin tone preference** — it affects some a
 - Applies to: achievements whose artwork contains hands/people — e.g., Pull Shark, Quickdraw, Pair Extraordinaire.
 - To test: change the preference, refresh your achievements page (`github.com/<you>?tab=achievements`), and hover the badge.
 
-<p align="center">🦈 · ⭐ · 🧠 · 👥 · ⚡ · 😎 · 💖</p>
+<p align="center"><img src="assets/divider.svg" width="60%" alt="divider"/></p>
 
 ---
 
@@ -466,7 +472,7 @@ Separate from achievements, shown under the **Highlights** card on your profile.
 
 > **Want all highlights?** Pro is paid; the others are free. Developer Program is the easiest — one-click join.
 
-<p align="center">🦈 · ⭐ · 🧠 · 👥 · ⚡ · 😎 · 💖</p>
+<p align="center"><img src="assets/divider.svg" width="60%" alt="divider"/></p>
 
 ---
 
@@ -481,7 +487,7 @@ These were awarded for one-time historical events and **can no longer be earned*
 
 They remain visible on profiles of those who earned them — a permanent piece of GitHub history.
 
-<p align="center">🦈 · ⭐ · 🧠 · 👥 · ⚡ · 😎 · 💖</p>
+<p align="center"><img src="assets/divider.svg" width="60%" alt="divider"/></p>
 
 ---
 
@@ -506,7 +512,7 @@ Direct link: https://github.com/settings → *Profile*.
 
 Achievements render slightly different in **light** and **dark** mode — check both via your GitHub appearance settings or by appending `?tab=achievements` and toggling the theme on that page.
 
-<p align="center">🦈 · ⭐ · 🧠 · 👥 · ⚡ · 😎 · 💖</p>
+<p align="center"><img src="assets/divider.svg" width="60%" alt="divider"/></p>
 
 ---
 
@@ -523,7 +529,7 @@ Achievements render slightly different in **light** and **dark** mode — check 
 | **Nothing appears** | Go to `Settings → Public profile` and ensure **Show achievements** is checked. Also check you are looking at `?tab=achievements`, not `?tab=overview`. |
 | **Still missing after 24h** | Open a discussion at https://github.com/orgs/community/discussions — GitHub staff occasionally fix stuck badges. |
 
-<p align="center">🦈 · ⭐ · 🧠 · 👥 · ⚡ · 😎 · 💖</p>
+<p align="center"><img src="assets/divider.svg" width="60%" alt="divider"/></p>
 
 ---
 
@@ -636,7 +642,7 @@ Try live: `https://img.shields.io/badge/Python-3.11-blue?logo=python&style=for-t
 
 </details>
 
-<p align="center">🦈 · ⭐ · 🧠 · 👥 · ⚡ · 😎 · 💖</p>
+<p align="center"><img src="assets/divider.svg" width="60%" alt="divider"/></p>
 
 ---
 
@@ -703,7 +709,7 @@ No — tier progress is based on **historical events**. Deleting a repo does not
 
 </details>
 
-<p align="center">🦈 · ⭐ · 🧠 · 👥 · ⚡ · 😎 · 💖</p>
+<p align="center"><img src="assets/divider.svg" width="60%" alt="divider"/></p>
 
 ---
 
@@ -729,3 +735,5 @@ No — tier progress is based on **historical events**. Deleting a repo does not
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"/>
   <img src="https://img.shields.io/badge/Achievements-every%20badge-blue?style=flat-square" alt="Every badge"/>
 </p>
+
+<p align="center"><a href="#what-are-github-achievements">▲ Back to Top</a></p>
