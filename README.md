@@ -19,6 +19,15 @@
   <a href="#faq"><img src="https://img.shields.io/badge/%E2%9D%93%20FAQ-ff69b4?style=for-the-badge" alt="FAQ"/></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Achievements-9-blue?style=for-the-badge" alt="9 Achievements"/>
+  <img src="https://img.shields.io/badge/Tiered-4-orange?style=for-the-badge" alt="4 Tiered"/>
+  <img src="https://img.shields.io/badge/Highlights-4-6e40c9?style=for-the-badge" alt="4 Highlights"/>
+  <img src="https://img.shields.io/badge/Legacy-2-grey?style=for-the-badge" alt="2 Legacy"/>
+</p>
+
+> 🚀 **TL;DR — Earn your first badge in ~2 minutes:** Fork this repo → edit `CHANGES.md` → open & merge a PR → 🦈 **Pull Shark (Default)** unlocks. Repeat to **16** for 🥉 Bronze.
+
 ---
 
 ## 🎨 Badge Gallery
@@ -172,6 +181,19 @@ git push origin my-pr-1
 
 > ✅ **Pro Tip:** After forking, enable `Actions` on your fork to avoid warnings. Every merged PR counts even on your fork's `main`.
 
+### 🔄 The Workflow (visual)
+
+```mermaid
+flowchart LR
+    A[Fork repository] --> B[Create branch]
+    B --> C[Edit CHANGES.md]
+    C --> D[Commit & push]
+    D --> E[Open Pull Request]
+    E --> F[Merge PR]
+    F --> G[🦈 +1 merged PR]
+    G -->|repeat| B
+```
+
 <p align="center"><img src="assets/divider.svg" width="60%" alt="divider"/></p>
 
 ---
@@ -197,6 +219,26 @@ git push origin my-pr-1
 
 > 💗 & 🌐 are experimental — GitHub may change/disable them at any time.
 > 🧠 Galaxy Brain awarding via Community Discussions has been **paused** by GitHub.
+
+### 🗺️ Badge Map (visual)
+
+```mermaid
+graph TD
+    A[Achievements] --> B[Tiered ×4]
+    A --> C[Single ×3]
+    A --> D[Testing ×2]
+    B --> B1[🦈 Pull Shark]
+    B --> B2[⭐ Starstruck]
+    B --> B3[🧠 Galaxy Brain]
+    B --> B4[👥 Pair Extraordinaire]
+    C --> C1[⚡ Quickdraw]
+    C --> C2[😎 YOLO]
+    C --> C3[💖 Public Sponsor]
+    D --> D1[💗 Heart On Your Sleeve]
+    D --> D2[🌐 Open Sourcerer]
+    A --> H[Highlights ×4]
+    A --> I[Legacy ×2]
+```
 
 <p align="center"><img src="assets/divider.svg" width="60%" alt="divider"/></p>
 
@@ -729,6 +771,24 @@ No — tier progress is based on **historical events**. Deleting a repo does not
 <p align="center">
   <sub>Not affiliated with GitHub, Inc. — a community resource covering every GitHub badge and the 🦈 Pull Shark achievement.</sub>
 </p>
+
+---
+
+## 🤝 Contributing
+
+Found a missing badge, a wrong threshold, or a typo? **Pull Requests are welcome — and they also help you earn 🦈 Pull Shark!**
+
+1. **Fork** this repo and create a branch (`git checkout -b fix/readme`).
+2. Edit `README.md` — keep the structure, tables, and the `assets/` images.
+3. **Open a PR** and get it merged.
+
+Please keep the guide accurate and friendly. 💙
+
+## 📜 License
+
+Released under the [MIT License](LICENSE) — free to reuse, adapt, and share.
+
+<p align="center"><img src="assets/divider.svg" width="60%" alt="divider"/></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%20for%20the%20GitHub%20community-ff69b4?style=flat-square" alt="Made with love"/>
