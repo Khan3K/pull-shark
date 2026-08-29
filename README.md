@@ -114,11 +114,12 @@ This repository is a **safe, friendly place** to practice the pull-request workf
 ### 7-Step Quick Start (Web UI)
 
 1. **Fork** this repo → `Fork` button (top right).
-2. `Create new file` or edit `CHANGES.md` on **your fork**.
-3. **Commit** → choose *Create a new branch* → `Propose changes`.
-4. **Open PR** → `Create pull request` → `Create pull request` again.
-5. **Merge** it on your fork (or wait for maintainer to merge here).
-6. Repeat steps 2–5.
+
+3. `Create new file` or edit `CHANGES.md` on **your fork**.
+4. **Commit** → choose *Create a new branch* → `Propose changes`.
+5. **Open PR** → `Create pull request` → `Create pull request` again.
+6. **Merge** it on your fork (or wait for maintainer to merge here).
+7. Repeat steps 2–5.
 
 **You need 2 merged PRs for the shark, 16 for Bronze!**
 
@@ -760,10 +761,15 @@ No — tier progress is based on **historical events**. Deleting a repo does not
 | Date | What changed |
 |------|--------------|
 | **Apr 2021** | Achievements launched with Mars 2020 & Arctic Code Vault. |
+
 | **Jun 2022** | Added Pull Shark, Starstruck, Galaxy Brain, Pair Extraordinaire, Quickdraw, YOLO, Public Sponsor. |
+
 | **2022–2023** | Introduced tier upgrades (Bronze/Silver/Gold) for 4 achievements. |
+
 | **2023+** | Experimental badges: Heart On Your Sleeve, Open Sourcerer (A/B testing). |
+
 | **2024–2025** | Galaxy Brain awarding paused via Community Discussions. |
+
 | **Aug 2026** | This guide last verified — tier thresholds and statuses re-checked. |
 
 ---
