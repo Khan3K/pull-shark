@@ -60,6 +60,7 @@
 
 ---
 
+
 ## ✨ What Are GitHub Achievements?
 
 **Achievements** are collectible badges on your GitHub profile (`github.com/<username>?tab=achievements`). They unlock **automatically** when you complete specific actions — merging pull requests, earning stars, answering discussions, sponsoring open source, co-authoring commits, and more.
@@ -72,6 +73,7 @@
 | ** tiers?** | 4 of them upgrade: Default → 🥉 Bronze (`x2`) → 🥈 Silver (`x3`) → 🥇 Gold (`x4`). |
 | **Skin tones?** | Some achievements have 6 skin-tone variants based on your emoji preference. |
 | **Highlights?** | Separate section under achievements (Pro, Developer Program, etc.). |
+
 
 <p align="center">
   <a href="https://github.com/Khan3K/pull-shark/stargazers"><img src="https://img.shields.io/badge/%E2%AD%90%20Star%20this%20repo-1f6feb?style=for-the-badge" alt="Star this repo"/></a>
