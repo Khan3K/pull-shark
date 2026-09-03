@@ -1,17 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="GitHub Badges and Achievements">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-label="GitHub Badges and Achievements">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="55%" stop-color="#1f2a44"/>
+      <stop offset="50%" stop-color="#161b22"/>
       <stop offset="100%" stop-color="#1f6feb"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#58a6ff"/>
-      <stop offset="100%" stop-color="#bc8cff"/>
+      <stop offset="50%" stop-color="#bc8cff"/>
+      <stop offset="100%" stop-color="#f778ba"/>
     </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="45%" r="45%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+    </radialGradient>
   </defs>
-  <rect width="1000" height="260" fill="url(#bg)"/>
-  <text x="500" y="115" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="800" fill="#ffffff" text-anchor="middle">GitHub Badges</text>
-  <text x="500" y="180" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="800" fill="url(#accent)" text-anchor="middle">&amp; Achievements</text>
-  <text x="500" y="225" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#c9d1d9" text-anchor="middle">The complete, beautiful guide to every profile badge</text>
+  <rect width="1000" height="300" fill="url(#bg)"/>
+  <rect width="1000" height="300" fill="url(#glow)"/>
+  <circle cx="80" cy="50" r="2" fill="#58a6ff" opacity="0.6"/>
+  <circle cx="150" cy="80" r="1.5" fill="#bc8cff" opacity="0.5"/>
+  <circle cx="920" cy="60" r="2" fill="#58a6ff" opacity="0.6"/>
+  <circle cx="850" cy="40" r="1.5" fill="#bc8cff" opacity="0.5"/>
+  <circle cx="300" cy="25" r="1" fill="#f778ba" opacity="0.4"/>
+  <circle cx="700" cy="30" r="1" fill="#f778ba" opacity="0.4"/>
+  <circle cx="450" cy="280" r="1.5" fill="#58a6ff" opacity="0.3"/>
+  <circle cx="550" cy="275" r="1" fill="#bc8cff" opacity="0.3"/>
+  <circle cx="200" cy="150" r="1" fill="#58a6ff" opacity="0.35"/>
+  <circle cx="800" cy="180" r="1.5" fill="#f778ba" opacity="0.3"/>
+  <circle cx="120" cy="200" r="60" fill="none" stroke="#58a6ff" stroke-width="1" opacity="0.1"/>
+  <circle cx="880" cy="100" r="80" fill="none" stroke="#bc8cff" stroke-width="1" opacity="0.1"/>
+  <circle cx="500" cy="150" r="140" fill="none" stroke="#58a6ff" stroke-width="0.5" opacity="0.08"/>
+  <line x1="0" y1="290" x2="1000" y2="290" stroke="#1f6feb" stroke-width="2" opacity="0.3"/>
+  <text x="500" y="120" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="800" fill="#ffffff" text-anchor="middle">GitHub Badges</text>
+  <text x="500" y="190" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="800" fill="url(#accent)" text-anchor="middle">&amp; Achievements</text>
+  <text x="500" y="245" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#8b949e" text-anchor="middle">The complete, beautiful guide to every profile badge</text>
 </svg>

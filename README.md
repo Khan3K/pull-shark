@@ -60,6 +60,41 @@
 
 ---
 
+### 🎯 Which Badge Should I Earn First?
+
+```mermaid
+graph TD
+    Start[🏆 Your first badge?] --> Q1{Want it fast?}
+    Q1 -->|Yes| Q2{Willing to spend $1?}
+    Q2 -->|Yes| PS[💖 Public Sponsor — 5 min]
+    Q2 -->|No| QD[⚡ Quickdraw — 2 min]
+    Q1 -->|No| Q3{Merged PRs before?}
+    Q3 -->|Yes| YO[😎 YOLO — 5 min]
+    Q3 -->|No| PR[🦈 Pull Shark — 10 min]
+    PR -->|Level up| PE[👥 Pair Extraordinaire]
+    Start -->|Want stars?| SS[⭐ Starstruck — weeks]
+    Start -->|Love discussions?| GB[🧠 Galaxy Brain]
+    style PS fill:#e85ab5,color:#fff
+    style QD fill:#fb8500,color:#fff
+    style YO fill:#bf3989,color:#fff
+    style PR fill:#1f6feb,color:#fff
+    style PE fill:#2da44e,color:#fff
+    style SS fill:#fbbf24,color:#000
+    style GB fill:#8957e5,color:#fff
+```
+
+```mermaid
+pie title Badge Difficulty Distribution
+    "Very Easy" : 2
+    "Easy" : 1
+    "Medium" : 3
+    "Hard" : 2
+    "Testing" : 2
+```
+
+> 💡 **Quick path:** ⚡ Quickdraw (2 min) → 😎 YOLO (5 min) → 🦈 Pull Shark (10 min) → 👥 Pair Extraordinaire (30 min) = **4 badges in under an hour!**
+
+---
 
 ## ✨ What Are GitHub Achievements?
 
@@ -85,6 +120,7 @@
 ## 📑 Table of Contents
 
 - [✨ What Are GitHub Achievements?](#what-are-github-achievements)
+- [🎯 Which Badge First?](#which-badge-should-i-earn-first)
 - [🦈 Practice Here: Earn Pull Shark](#practice-here-earn-pull-shark)
 - [📋 Every Badge at a Glance](#every-badge-at-a-glance)
 - [📖 How to Earn Each Badge — Detailed](#how-to-earn-each-badge--detailed)
@@ -700,6 +736,20 @@ Try live: `https://img.shields.io/badge/Python-3.11-blue?logo=python&style=for-t
 - ✅ **Be active in Discussions** — helpful answers get accepted (for Highlights → Discussion Answered & potentially Galaxy Brain when it returns).
 - ✅ **Sponsor once, get Public Sponsor instantly** — pick a maintainer you already follow.
 - ✅ **Pair Extraordinaire trick:** On a single PR, amend and force-push a co-authored commit if you forgot the trailer initially — still counts once merged.
+
+### 📊 Recommended Earning Order (easiest → hardest)
+
+| # | Badge | Time | Notes |
+|---|-------|------|-------|
+| 1 | ⚡ **Quickdraw** | ~2 min | Close an issue/PR within 5 min |
+| 2 | 😎 **YOLO** | ~5 min | Merge a PR without review |
+| 3 | 💖 **Public Sponsor** | ~5 min | Sponsor $1+ on GitHub Sponsors |
+| 4 | 🦈 **Pull Shark** | ~10 min | Use this repo! Fork → PR → merge |
+| 5 | 👥 **Pair Extraordinaire** | ~30 min | Co-author with a friend or alt account |
+| 6 | 🧠 **Galaxy Brain** | hours–days | Answer discussions (⚠️ may be paused) |
+| 7 | ⭐ **Starstruck** | weeks–months | Build something useful, share it |
+
+> 🎯 **Achievement speedrun:** Steps 1–4 can be done in **under 20 minutes** using this repo + your own fork.
 
 ---
 
